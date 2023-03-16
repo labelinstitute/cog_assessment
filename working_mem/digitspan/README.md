@@ -3,4 +3,4 @@ In this folder you will find the software for the Digit Span Task. The software 
 
 This task was used in the following research project:
 
-Brocas I. and J. Carrillo, "Adverse selection and contingent reasoning in preadolescents and teenagers", Games and Economic Behavior, 133, 331-351, 2022. [**PDF**](https://isabellebrocas.org/Research/advsel.pdf)
+Brocas I. and J. Carrillo, "Adverse selection and contingent reasoning in preadolescents and teenagers". Games and Economic Behavior, 133, 331-351, 2022. [**PDF**](https://isabellebrocas.org/Research/advsel.pdf)
